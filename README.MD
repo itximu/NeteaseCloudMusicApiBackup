@@ -1,3 +1,5 @@
+# 移步 https://www.npmjs.com/package/NeteaseCloudMusicApi
+
 # 网易云音乐 API
 
 网易云音乐 Node.js API service
